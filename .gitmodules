@@ -1,3 +1,6 @@
 [submodule "tools/linux-sunxi"]
 	path = tools/linux-sunxi
 	url = https://github.com/foxnet-git/linux-sunxi.git
+[submodule "tools/u-boot-sunxi"]
+	path = tools/u-boot-sunxi
+	url = https://github.com/foxnet-git/u-boot-sunxi.git
